@@ -1,4 +1,5 @@
-# SecurePDF
+# python-secure-pdf
+
 This is a simple project in Python to secure PDF using pypdf2.
 
 To run the program, open a terminal and run with these parameters.
